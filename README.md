@@ -1,4 +1,9 @@
-# Virtual Wallet
+
+<font face = "monospace" size= "10px">
+VIRTAL WALLET <img src = "https://geekflare.com/wp-content/uploads/2019/11/Wallet.gif" align = "right" width = 400>
+</font>
+
+<br><hr><br>
 
 Welcome to your Virtual Wallet! This project is a simple command-line application that allows users to manage their virtual wallet accounts, perform transactions, and update their account information.
 
