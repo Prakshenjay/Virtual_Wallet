@@ -1,7 +1,6 @@
+# VIRTUAL WALLET
 
-<font face = "monospace" size= "100px">
-VIRTUAL WALLET <img src = "https://geekflare.com/wp-content/uploads/2019/11/Wallet.gif" align = "right" width = 400>
-</font>
+<img src = "https://geekflare.com/wp-content/uploads/2019/11/Wallet.gif" align = "right" width = 400>
 
 <br><hr><br>
 
