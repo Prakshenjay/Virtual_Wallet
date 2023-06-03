@@ -245,7 +245,14 @@ void admin_login()
 
     for (int i = 0; i < end_user; i++)
     {
-        printf("%d %s %s %f\n", cust_list[i].pin, cust_list[i].name, cust_list[i].phone_no, cust_list[i].balance);
+        if(i == 0)
+        {
+            printf("Si No. \t\t User Name \t\t PIN \t\t Phone No. \t\t Balance\n\n");
+        }
+        else
+        {
+        printf("%d \t\t %s \t\t %d \t\t %s \t\t %.2f\n\n", i, cust_list[i-1].name, cust_list[i-1].pin, cust_list[i-1].phone_no, cust_list[i-1].balance);
+        }
     }
 
     char ch;
