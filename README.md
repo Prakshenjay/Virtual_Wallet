@@ -16,41 +16,59 @@ Welcome to your Virtual Wallet! This project is a simple command-line applicatio
 
 ## Screenshots
 
-### Startup Menu
+<br>
 
-<img src = "screenshots/startup_menu.png" width = "400">
+- ### Startup Menu
 
-### User Login
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "screenshots/startup_menu.png" width = "350">
 
-<img src = "screenshots/user_login.png" width = "400">
+<br>
 
-### Account Creation
+- ### User Login
 
-<img src = "screenshots/user_registration.png" width = "400">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "screenshots/user_login.png" width = "350">
 
-### User Services
+<br>
 
-<img src = "screenshots/user_services.png" width = "400">
+- ### Account Creation
 
-### Account Statement
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "screenshots/user_registration.png" width = "350">
 
-<img src = "screenshots/account_statement.png" width = "400">
+<br>
 
-### Cash Withdrawal
+- ### User Services
 
-<img src = "screenshots/withdrawl.png" width = "400">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "screenshots/user_services.png" width = "350">
 
-### Cash Deposit
+<br>
 
-<img src = "screenshots/deposit.png" width = "400">
+- ### Account Statement
 
-### PIN Change
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "screenshots/account_statement.png" width = "350">
 
-<img src = "screenshots/pin_change.png" width = "400">
+<br>
 
-### Admin Access
+- ### Cash Withdrawal
 
-<img src = "screenshots/admin_access.png" width = "400">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "screenshots/withdrawl.png" width = "350">
+
+<br>
+
+- ### Cash Deposit
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "screenshots/deposit.png" width = "350">
+
+<br>
+
+- ### PIN Change
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "screenshots/pin_change.png" width = "350">
+
+<br>
+
+- ### Admin Access
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = "screenshots/admin_access.png" width = "350">
 
 <br><hr><br>
 
